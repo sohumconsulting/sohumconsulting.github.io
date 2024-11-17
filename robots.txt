@@ -1,0 +1,6 @@
+# Rule 2
+User-agent: *
+Allow: /
+
+Sitemap: http://sohumconsulting.com/sitemap.txt
+ 
